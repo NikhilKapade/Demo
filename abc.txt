@@ -1,2 +1,3 @@
 git hub learning through vs code.
 checking discard changes option in vs code.
+git is a awesome tool.
